@@ -1,0 +1,51 @@
+.heading
+{
+    font-style: oblique;
+    font-family: fantasy;
+    font-size: 50px;
+    color: blueviolet;
+}
+
+.bio
+{
+    font-family: fantasy;
+    color: darkblue;
+}
+
+.story
+{
+    color: darkcyan;
+    font-family: fantasy;
+}
+
+.face
+{
+    color: darkcyan;
+    font-family: fantasy;
+}
+
+#footer_div
+{
+    background-color: hotpink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 25px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+
+.contact
+{
+    font-family: fantasy;
+    color: rgb(137, 56, 175);
+}
+
+.contact_info
+{
+    font-family: fantasy;
+    color: mediumvioletred;
+    list-style-type: disc;
+    list-style-position: inside;
+
+}
