@@ -41,7 +41,21 @@
     color: rgb(137, 56, 175);
 }
 
-.contact_info
+.contact_info1
+{
+    font-family: fantasy;
+    color: mediumvioletred;
+
+}
+
+.contact_info2
+{
+    font-family: fantasy;
+    color: mediumvioletred;
+
+}
+
+.contact_info3
 {
     font-family: fantasy;
     color: mediumvioletred;
